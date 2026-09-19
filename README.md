@@ -1,1 +1,1 @@
-# mar-jongg-score2
+# mah-jongg-score2
